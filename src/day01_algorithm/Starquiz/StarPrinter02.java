@@ -8,6 +8,13 @@ package day01_algorithm.Starquiz;
 
 // 코드 설명 바깥 for문 : 줄 번호 i ( 1~ N)
 
+// 예제 입력 1 : 5
+// 예제 출력 1 :
+//    *
+//   **
+//  ***
+// ****
+//*****
 import java.util.Scanner;
 
 public class StarPrinter02 {
