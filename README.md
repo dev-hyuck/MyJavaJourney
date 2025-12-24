@@ -24,7 +24,11 @@
 
 # 🌱 자바 공부 2일 1커밋 
 
-> https://www.acmicpc.net/problem/2439 별찍기 2번 문제 커밋
+> https://www.acmicpc.net/problem/2439 별찍기 2번 문제 만들기 완료
+
+> 자바 패키지를 생성하고 그 패키지를 깃허브에 업로드 해보기
+
+> 오늘의 학습 내용을 README.md에 추가하고 메모 하는 습관 향상 시켜보기
 
 ---
 
