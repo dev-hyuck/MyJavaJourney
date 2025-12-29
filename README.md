@@ -35,7 +35,11 @@
 
 > Spring 강의 듣고 백엔드 학습하기 
 
-> Spring 
+
+# 🌱 자바 공부 4일 1커밋
+> https://www.acmicpc.net/problem/2441 별찍기 4번 문제 만들기 완료
+
+> Spring 강의 전체 완강 하기
 
 
 ## 📘 학습 주제
